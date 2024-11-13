@@ -1,4 +1,8 @@
 function PetItem({ pet }) {
+
+const petImage () {
+  
+}
   return (
     <div className="col-lg-4 col-md-8 col-sm-10">
       <div className="single-doctor">
